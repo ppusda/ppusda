@@ -6,7 +6,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vue,svelte" />
+    <img src="https://skillicons.dev/icons?i=vue,svelte,react" />
     <br>
     <img src="https://skillicons.dev/icons?i=git,docker,githubactions" />
   </a>
